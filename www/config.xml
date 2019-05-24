@@ -26,7 +26,6 @@
     <plugin name="cordova-plugin-network-information" version="1.3.3" />
     <plugin name="cordova-plugin-vibration" version="2.1.5" />
     <plugin name="cordova-plugin-x-socialsharing" version="5.2.0" />
-    <plugin name="phonegap-plugin-barcodescanner" />
 
     <!-- Define app icon for each platform. -->
     <icon src="icon.png" />
@@ -52,6 +51,5 @@
     <gap:splash src="res/screen/ios/screen-iphone-portrait-568h-2x.png" gap:platform="ios"     width="640" height="1136" />
     <gap:splash src="res/screen/ios/screen-ipad-portrait.png"           gap:platform="ios"     width="768" height="1024" />
     <gap:splash src="res/screen/ios/screen-ipad-landscape.png"          gap:platform="ios"     width="1024" height="768" />
-   
 
 </widget>
