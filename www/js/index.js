@@ -50,7 +50,7 @@
 };
 
 function getCode(){
-  cordova.plugins.barcodeScanner.scan(
+  com.phonegap.plugins.barcodescanner.scan(
       function (result) {
           setData(result.text);
           /*alert("Datos obtenidos\n" +
