@@ -49,7 +49,8 @@
     }
 };
 
-function getCode(){ 
+function getCode(){
+  alert("entra");
   cordova.plugins.barcodeScanner.scan(
       function (result) {
           setData(result.text);
