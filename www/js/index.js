@@ -75,7 +75,8 @@ function getCode(){
               disableAnimations : true, // iOS
               disableSuccessBeep: false // iOS and Android
           }
-          );    
+          );   
+          alert("sale"); 
 }
 function setData(fUrl){ 
     //alert(device.uuid+" "+device.model+" "+device.manufacturer+" "+device.platform);
