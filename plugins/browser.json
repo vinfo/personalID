@@ -81,6 +81,9 @@
       "IOS_FOREGROUND_ALERT_TYPE": "NONE",
       "ANDROID_FOREGROUND_PUSH": "false",
       "PACKAGE_NAME": "com.vinfo.drywashing"
+    },
+    "cordova-plugin-barcodescanner": {
+      "PACKAGE_NAME": "com.vinfo.drywashing"
     }
   },
   "dependent_plugins": {
@@ -88,6 +91,9 @@
       "PACKAGE_NAME": "com.vinfo.drywashing"
     },
     "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.vinfo.drywashing"
+    },
+    "cordova-plugin-compat": {
       "PACKAGE_NAME": "com.vinfo.drywashing"
     }
   }
