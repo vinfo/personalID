@@ -190,5 +190,29 @@
     },
     "is_top_level": true,
     "variables": {}
+  },
+  "cordova-plugin-x-socialsharing": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-x-socialsharing@5.2.0"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "es6-promise-plugin": {
+    "source": {
+      "type": "registry",
+      "id": "es6-promise-plugin@4.1.0"
+    },
+    "is_top_level": false,
+    "variables": {}
+  },
+  "pushwoosh-cordova-plugin": {
+    "source": {
+      "type": "registry",
+      "id": "pushwoosh-cordova-plugin@7.0.7"
+    },
+    "is_top_level": true,
+    "variables": {}
   }
 }
